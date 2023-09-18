@@ -7,3 +7,9 @@ First introduced at Oxford in 2012, this concept is a growing pratice with ten e
 Also an expanding concept in the medical field, communities have been able to advance a deluge of initiatives that support open science and reproducibility in the life sciences.
 The Human Cell Atlas initiative aims to distinguish and map each and every cell type in the human bodyby utilizing data sharing, storage, browsing and dissemination. With the data shared openly, discoveries are expedited and collaboration among researches deepen.
 Research Software Engineering transforms the way the scientific community democratises data, as well as the technical mechanism and infrastruture for interacting with it.
+
+--
+## Additional Comments
+I like this article because it delves into an aspect of software engineering that I didn't even know was prevalant in the industry. I think it is really cool that the emergence of better software and larger data systems can help push the frontiers of research and science!
+
+_Comments by Kieren Gill_
